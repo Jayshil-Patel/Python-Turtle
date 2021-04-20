@@ -1,5 +1,5 @@
 # Python-Turtle
->This repository contains a simple luck based python game, the [code](https://github.com/Jayshil-Patel/Python-Turtle) and output is attached in the git repository 
+>This repository contains a simple luck based python game, the [code](https://github.com/Jayshil-Patel/Python-Turtle) and [output](https://github.com/Jayshil-Patel/Python-Turtle/blob/main/Python_turtle.PNG) is attached in the git repository 
 >
 
 
