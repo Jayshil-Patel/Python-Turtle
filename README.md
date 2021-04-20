@@ -1,6 +1,6 @@
 # Python-Turtle
->This repository contains a simple luck based python game, the code and output is attached in the git repository 
->[here](https://github.com/Jayshil-Patel/Python-Turtle)
+>This repository contains a simple luck based python game, the [code](https://github.com/Jayshil-Patel/Python-Turtle) and output is attached in the git repository 
+>
 
 
 ## Contact Info
